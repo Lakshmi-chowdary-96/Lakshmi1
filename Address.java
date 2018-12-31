@@ -1,4 +1,4 @@
-package com.cg.banking.beans
+package com.cg.mobilebilling.beans;
 
 public class Address {
 	private String city,state,country;
@@ -35,7 +35,10 @@ public class Address {
 	public void setPinCode(int pinCode) {
 		this.pinCode = pinCode;
 	}
-	
 		
 	
 }
+
+
+
+

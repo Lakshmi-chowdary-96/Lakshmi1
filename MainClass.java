@@ -1,9 +1,9 @@
-package com.cg.banking.client;
+package com.cg.mobilebilling.client;
 
 public class MainClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 
